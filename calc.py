@@ -4,6 +4,8 @@ def main():
 def calc(a,b):
 	sum = a + b
 	print(sum)
+	dif = a - b
+	print(dif)
 
 if __name__ == '__main__':
 	main()
