@@ -8,5 +8,7 @@ def password(length):
 	for x in range (0, length):
 		print (random.choice(string.ascii_letters), end = '')
 
+	print("")
+
 if __name__ == '__main__':
 	main()
