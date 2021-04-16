@@ -1,8 +1,9 @@
 def main():
-	divisor(45)
+	divisor(36)
 
 def divisor(num):
-	pass
+	for x in range (1, num+1):
+		pass
 
 if __name__ == '__main__':
 	main()
