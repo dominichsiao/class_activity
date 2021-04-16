@@ -6,6 +6,8 @@ def calc(a,b):
 	print(sum)
 	dif = a - b
 	print(dif)
+	mul = a * b
+	print(mul)
 
 if __name__ == '__main__':
 	main()
