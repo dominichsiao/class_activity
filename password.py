@@ -1,10 +1,11 @@
 import random
 
 def main():
-	password()
+	password(7)
 
-def password():
-	pass
+def password(length):
+	for x in range (0, length):
+		pass
 
 if __name__ == '__main__':
 	main()
